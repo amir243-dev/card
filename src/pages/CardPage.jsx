@@ -43,7 +43,7 @@ const CardPage = () => {
             <div className="border border-white rounded-[99px] px-8 max-sm:px-5 py-4 max-sm:py-2 flex gap-2.5 w-[164px] max-sm:w-[140px]">
               <img src={small} alt="" className="max-sm:w-[25%]" />
               <a
-                href="/public/Amir Resume.pdf"
+                href="/src/assets/amirResume.pdf"
                 download
                 className="text-white font-normal"
               >
